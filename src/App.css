@@ -4,6 +4,7 @@
   background-color: #1b1b32;
   font-family: Lato, sans-serif;
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
@@ -38,3 +39,8 @@
   justify-content: center;
 }
 
+.dev_Persona {
+  padding-top: 15px;
+  color: rgb(254, 254, 254);
+  font-family: Lato, sans-serif;
+}

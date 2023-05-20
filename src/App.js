@@ -64,6 +64,8 @@ function App() {
 
       </div>
 
+      <div className='dev_Persona' >Desarrollado por Alejandro Medina | 2023 </div>
+
     </div>
   );
 }
